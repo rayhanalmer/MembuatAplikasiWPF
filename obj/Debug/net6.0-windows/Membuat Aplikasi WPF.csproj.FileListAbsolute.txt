@@ -1,0 +1,20 @@
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\bin\Debug\net6.0-windows\Membuat Aplikasi WPF.exe
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\bin\Debug\net6.0-windows\Membuat Aplikasi WPF.deps.json
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\bin\Debug\net6.0-windows\Membuat Aplikasi WPF.runtimeconfig.json
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\bin\Debug\net6.0-windows\Membuat Aplikasi WPF.dll
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\bin\Debug\net6.0-windows\Membuat Aplikasi WPF.pdb
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF_MarkupCompile.cache
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF_MarkupCompile.lref
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.g.resources
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.dll
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\refint\Membuat Aplikasi WPF.dll
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.pdb
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\Membuat Aplikasi WPF.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Membuat Aplikasi WPF\Membuat Aplikasi WPF\obj\Debug\net6.0-windows\ref\Membuat Aplikasi WPF.dll
